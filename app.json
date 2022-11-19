@@ -1,0 +1,8 @@
+{
+  "name": "spring-boot-library",
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
